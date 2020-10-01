@@ -1,8 +1,8 @@
-## Getting the project up and running
+## Quick setup
 
 ### `cd scripts && ./setup.sh`
 
-This will install all dependencies 
+This will install all dependencies. 
 
 ### `cd scripts && ./start.sh`
 
