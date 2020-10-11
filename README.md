@@ -15,8 +15,14 @@
 
 ### `cd scripts && ./setup.sh`
 
-This will install all dependencies. 
+This will install all dependencies.
+
+### `cd scripts && ./start.sh`
+
+Runs the react app and node server in the development mode.
+Open http://localhost:3000 to view it in the browser.
  
+Please find the backup scripts below. (In case above script fails for some reason)
 ### `cd server && npm run start`
 
 Runs the node server in the development mode.<br />
